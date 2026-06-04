@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hoi Ming (Ernest) Chan (陳海鳴)"
+  name             : "Hoi Ming Chan (陳海鳴)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
