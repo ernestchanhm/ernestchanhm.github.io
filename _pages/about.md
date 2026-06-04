@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hoi Ming Chan"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am an MPhil (by thesis) student in Linguistics and Language Science at Christ's College, University of Cambridge. 
 
-I am particularly interested in minimalist syntactic theories and language typology, especially with respect to Cantonese and other Sinitic varieties. Currently, I am working on my MPhil thesis entitled <it> Reinterpreting Aspects under Minimalism: Evidence from Three Sinitic Varieties </it> under the supervision of Prof. Ian Roberts.
+I am particularly interested in minimalist syntactic theories and language typology, especially with respect to Cantonese and other Sinitic varieties. Currently, I am working on my MPhil thesis entitled <i> Reinterpreting Aspects under Minimalism: Evidence from Three Sinitic Varieties </i> under the supervision of Prof. Ian Roberts.
 
 A data-driven personal website
 ======
