@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Hoi Ming Chan"
 title_separator          : "-"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hoi Ming (Ernest) Chan (陳海鳴)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong"
+  employer         : "University of Cambridge"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hmc76[at]cam[dot]ac[dot]uk" 
 
   # Academic websites
   academia         : # URL
