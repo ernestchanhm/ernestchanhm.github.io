@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
+goatcounter_code: <script data-goatcounter="https://ernestchanhm.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 # Basic Site Settings
 locale                   : "en-HK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
